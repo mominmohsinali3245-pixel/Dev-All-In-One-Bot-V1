@@ -1,0 +1,20 @@
+{
+  "prefix": ",",
+  "embed": "#00fefe",
+  "developerid": "",
+  "clientID": "",
+  "logchannel": "",
+  "bugreport": "",
+  "feedback": "",
+  "lavalink": {
+    "nodes": [
+      {
+        "name": "main-node",
+        "host": "lava-v4.ajieblogs.eu.org",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false
+      }
+    ]
+  }
+}

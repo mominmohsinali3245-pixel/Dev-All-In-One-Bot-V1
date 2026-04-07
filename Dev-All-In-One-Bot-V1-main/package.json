@@ -1,0 +1,56 @@
+{
+  "name": "AeroX AIO V1",
+  "version": "1.0",
+  "description": "Discord Bot.",
+  "main": "AeroX-AIO-V1/index.js",
+  "scripts": {
+    "start": "node AeroX-AIO-V1/index.js"
+  },
+  "author": "AeroX",
+  "engines": {
+    "node": "20.9.0"
+  },
+  "overrides": {
+    "better-sqlite3": "^11.10.0"
+  },
+  "dependencies": {
+    "@devraelfreeze/discordjs-pagination": "^2.7.6",
+    "@discordjs/opus": "^0.10.0",
+    "@distube/soundcloud": "^2.0.4",
+    "@distube/spotify": "^2.0.2",
+    "@distube/yt-dlp": "^2.0.1",
+    "@falloutstudios/djs-pagination": "^2.0.5",
+    "@iamtraction/google-translate": "^2.0.1",
+    "@joshdb/json": "^1.0.5",
+    "@top-gg/sdk": "^3.1.6",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.9.0",
+    "bitly": "^7.1.2",
+    "canvacard": "^6.0.5",
+    "canvacord": "^6.0.2",
+    "canvafy": "^7.2.1",
+    "captcha-canvas": "^2.3.1",
+    "chalk": "^4.1.2",
+    "discord-arts": "^0.7.1",
+    "discord-card-canvas": "^2.0.1",
+    "discord-gamecord": "^4.4.2",
+    "discord-html-transcripts": "^3.2.0",
+    "discord-logs": "^2.2.1",
+    "discord-youtube": "^1.1.1",
+    "discord.js-docs": "^0.4.3",
+    "distube": "^5.0.7",
+    "dotenv": "^16.6.1",
+    "fallout-utility": "^2.9.1",
+    "ffmpeg-static": "^5.2.0",
+    "figlet": "^1.8.1",
+    "generate-passwords": "^1.0.7",
+    "gradient-string": "^3.0.0",
+    "mathjs": "^14.5.1",
+    "mongoose": "^8.15.1",
+    "node-schedule": "^2.1.1",
+    "quick.db": "^9.1.7",
+    "quickchart-js": "^3.1.3",
+    "tesseract.js": "^6.0.1",
+    "weather-js": "^2.0.0"
+  }
+}
